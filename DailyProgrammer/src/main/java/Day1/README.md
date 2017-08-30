@@ -1,3 +1,5 @@
+Challenge Link: https://www.reddit.com/r/dailyprogrammer/comments/5961a5/20161024_challenge_289_easy_its_super_effective/
+
 In the popular Pokémon games all moves and Pokémons have types that determine how effective certain moves are against certain Pokémons.
 These work by some very simple rules, a certain type can be super effective, normal, not very effective or have no effect at all against another type.
 These translate respectively to 2x, 1x, 0.5x and 0x damage multiplication.
